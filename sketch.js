@@ -6,5 +6,6 @@ function draw() {
   background(220);
   fill(255,200,200);
   ellipse(200,200,150,150);
+  fill(0)
   text("hello world!", 50,50);
 }
